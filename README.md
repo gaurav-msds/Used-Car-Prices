@@ -62,14 +62,11 @@ This model was further tuned through hyperparameter tuning and GridSearch with a
 
 In testing these models with the inputs, we observed the following for used car prices:
 
-The Used Car Prices are most influenced by Odometer Readings and the Year of manufacturer. The most recent the year of the manufacturer and lower Odometer readings drive the maximum prices and are most preferred by the consumers.
+**- The Used Car Prices are most influenced by Odometer Readings and the Year of manufacturer.The most recent the year of the manufacturer and lower Odometer readings drive the maximum prices and are most preferred by the consumers.**
+**- Additional factors impacting the decision is car type (sedan is preferred) with gas as Fuel Type.**
 
 ## Next Steps and Recommendations
 
- - The Used Car Prices are most influenced by Odometer Readings and the Year of manufacturer. 
-     - The most recent the year of the manufacturer and lower Odometer readings drive the maximum prices and are most preferred by the consumers.
-     
-     
 **The used car dealerships would benefit the most by having an inventory of cars (sedan types) with gas fuel, year range closer to 2020 with a low Odometer Reading.**
 
 **Next Steps**
