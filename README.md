@@ -1,4 +1,4 @@
-# priceofacar
+# Price of a Used Car
 GitHub Repository for work done on Professional Certificate in Machine Learning and Artificial Intelligence - Feb 2024
 
 # Practical Application Assignment 11.1: What Drives the Price of a Car?
